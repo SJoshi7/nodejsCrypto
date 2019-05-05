@@ -1,0 +1,23 @@
+{
+  "name": "nodejscrypto",
+  "version": "1.0.0",
+  "description": "crypto basis using nodejs",
+  "main": "crypto.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SJoshi7/nodejsCrypto.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SJoshi7/nodejsCrypto/issues"
+  },
+  "homepage": "https://github.com/SJoshi7/nodejsCrypto#readme",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "eccrypto": "^1.1.1"
+  }
+}
